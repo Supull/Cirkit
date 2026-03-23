@@ -54,13 +54,6 @@ Cirkit combines AR technology with visual block programming to create an immersi
 - **Port Matching**: 2cm proximity threshold for automatic connection detection
 - **State Management**: Tracks microcontroller port states (HIGH/LOW) and sensor readings
 
-### Programming Engine
-- **Block Storage**: Array-based program representation with indent levels
-- **Sequential Execution**: Top-to-bottom block interpretation
-- **Conditional Logic**: IF/ELSE branching based on sensor data or port states
-- **Loop Support**: Forever and Repeat (N times) loops
-- **Real-time Updates**: Immediate visual feedback on circuit when program runs
-
 ### Data Persistence
 - **Program Storage**: Dictionary mapping microcontroller entities to saved block arrays
 - **Session State**: Maintains circuit configuration and programs during app lifecycle
