@@ -70,20 +70,6 @@ Cirkit combines AR technology with visual block programming to create an immersi
 └── README.md                            # This file
 ```
 
-## Key Components
-
-### Connection Manager
-- Monitors entity proximity and creates/removes connections
-- BFS pathfinding from battery to microcontroller
-- Sensor-to-microcontroller validation for sensor circuits
-- Push button state detection and handling
-
-### Microcontroller Programming
-- Modal interface for creating block programs
-- Drag blocks from palette to programming area
-- Nested block structure with visual indentation
-- Projects menu with preset programs (Traffic Light, Blinker, etc.)
-
 ## User Flow
 
 1. **Launch**: Welcome screen with Tutorial, Library, and Freeplay options
